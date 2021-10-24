@@ -1,19 +1,9 @@
 # admin
+> 王者荣耀后台管理系统
 
-## Project setup
-```
-npm install
-```
+## 功能实现
+	- 数据库写入
+	- 后台管理用户创建
+	- 文章发表
+	- 装备录入
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
